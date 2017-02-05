@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #
 # This file contains configuration flags to customize your site
 #
@@ -78,3 +79,6 @@ exclude:
   - LICENS
   - README.md
   - CNAME
+=======
+theme: jekyll-theme-leap-day
+>>>>>>> origin/master
