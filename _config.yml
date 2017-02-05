@@ -26,7 +26,7 @@ footer-links:
   twitter: stoica_dragos
   stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: /u/0/100158387049919084822 # anything in your profile username that comes after plus.google.com/
+  googleplus: u/0/100158387049919084822 # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
