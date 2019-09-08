@@ -4,52 +4,48 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+IT professional delivering complete services with full know-how in IT field. We can have common project in: data science, mathematical modelling, software development, project management, integration with 3rd parties, training. I am fully committed to quality and successful delivery. I believe in Open Source/Free Software solutions and I promote them through my projects.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+Specialties: Distributed Computing, Cloud based solutions Architecture
+Programming languages: Go, Java, Python, Rust, Erlang
+Database systems: CouchDB, PostgreSQL, Vertica
+Human interaction skills: Team management, Training for Software Engineering
+Scientific knowledge and experience in mathematical optimization and modelling - in IT it is assimilated with Data Science, AI, Machine Learning, Big Data.
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+Interested in: blockchain, cryptocurrency, IoT/IIoT, data science, machine learning.
+
+Looking for a job in a place near the sea in a nice warm zone of this planet. 
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* [Ph. D. Industrial Systems](http://ethesis.inp-toulouse.fr/archive/00000127/01/stoica.pdf) from INPT/LAAS-CNRS/ENAC.
+
 
 ## Roles
 
-Founder, ABC Organisation
+Founder, Level 33 SPRL
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* **Blockchain** - `MIT` / `Oxford`
+* **Programming** - `Go` / `Java` / `Python` / `Erlang`
+* **Web** - `Java Script` / `HTML5`
+* **Databases** - `CouchDB` / `PouchDB` / `PostgreSQL`
+* **People Management** - `Good listener` / `Positive feedback` / `Develop people` 
     
     
 ## Achievements
 
 
-* [**This is my first achievement**](#) 
+* [**CouchDB Book**](https://dragos-constantin-stoica.gitbooks.io/couchdb-just-relax-man/) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   When I installed for the first time CouchDB, back in 2012, I got this astonishingly beautiful message from a software:  
+   `Apache CouchDB has started. Time to relax`  
+   This was the first time when a software was designed for programmers and not for business or commercial people. Yes, I, as a programmer, I want to relax and have fun while spending hours and hours in front of my computer writing code! Coding must be fun and any programmer should enjoy doing it.
 
 ***
-
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
 
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[dragos.constantin.stoica@outlook.com](mailto:dragos.constantin.stoica@outlook.com)
